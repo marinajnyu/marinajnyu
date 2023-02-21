@@ -1,3 +1,2 @@
 - 👋 Hi, my name is Marina
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java
+
