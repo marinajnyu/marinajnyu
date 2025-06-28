@@ -9,15 +9,6 @@ With a diverse background ranging from visual arts to competitive pageants and n
 I’m driven by the belief that combining creativity with technology can spark meaningful connections and create positive, lasting impact.
 
 
-
-## 🎯 Interests
-
-- 💻 Frontend development (React, Next.js, Tailwind CSS)  
-- 🎨 Digital art, animation & UX design
-- 🤖 AI and machine learning
-
-
-
 ## 📬 Let's Connect!
 
 Feel free to reach out anytime:  
