@@ -1,18 +1,12 @@
-# Hello there, I'm Marina!
+# 🥳 Hi, I'm Marina!
+
+Always learning by building (and breaking) things along the way:) 😆
+
+I'm currently studying Computer Science and Business at the University of British Columbia. I love exploring the intersections of tech, art, and storytelling.
 
 
-
-## 🌟 About Me
-
-I'm a passionate software developer and creative problem solver who loves to explore the intersections of technology, art, and storytelling.
-With a diverse background ranging from visual arts to competitive pageants and now tech, I bring a fresh and unique perspective to every project I take on.
-I’m driven by the belief that combining creativity with technology can spark meaningful connections and create positive, lasting impact.
-
-
-## 📬 Let's Connect!
-
-Feel free to reach out anytime:  
+Happy to connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marinajnyu)  
-- 📧 Email: marinajnyu@gmail.com 
+- 📧 marinawangjn@gmail.com 
 
